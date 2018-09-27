@@ -1,0 +1,9 @@
+suPHP_ConfigPath /home/roger478/public_html
+<Files php.ini>
+
+order allow,deny
+
+deny from all
+
+</Files>
+Options +Indexes
