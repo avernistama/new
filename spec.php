@@ -1,5 +1,4 @@
 <?php
-
 $password = "022e38813571577a13b073c1409d2b34";
 
 session_start();
